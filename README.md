@@ -6,3 +6,4 @@ this is a test commit
 this is a second test commit
 
 Hobbies: Playing Online Games
+Skills: Playing Musical Isntruments
